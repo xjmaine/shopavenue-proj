@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -war target/shop-avenue-0.0.1-SNAPSHOT.war
