@@ -11,7 +11,7 @@
 	<groupId>io.avenue</groupId>
 	<artifactId>shop-avenue</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>shop-avenue</name>
 	<description>Basic website for shop avenue</description>
 	<properties>
